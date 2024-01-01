@@ -1,7 +1,7 @@
 ---
 import type { IFrontmatter } from 'astro-boilerplate-components';
 
-import { CTA } from '@/partials/CTA';
+import { Experienced } from '@/partials/Experienced';
 import { Hero } from '@/partials/Hero';
 import { ProjectList } from '@/partials/ProjectList';
 import { RecentPosts } from '@/partials/RecentPosts';
@@ -19,7 +19,7 @@ const { description } = AppConfig;
 
 <Base head={{ title, description }}>
   <Hero />
+  <Experienced />
   <ProjectList />
   <RecentPosts postList={lastThreePosts} />
-  <CTA />
 </Base>
