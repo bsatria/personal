@@ -24,11 +24,13 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Front End Engineer @&nbsp;
-            <GradientText>Koinworks Indonesia</GradientText>
+            Front End Engineer
             <span className="me-2 ms-3 rounded bg-blue-100 px-2.5 py-0.5 text-sm font-medium text-blue-800 dark:bg-blue-900 dark:text-blue-300">
               Present
             </span>
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+            <GradientText>Koinworks Indonesia</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
             November 2021 - Present
@@ -60,7 +62,9 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Front End Engineer @&nbsp;
+            Front End Engineer
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
             <GradientText>Jojonomic Indonesia</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
@@ -90,7 +94,9 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Front End Engineer @&nbsp;
+            Front End Engineer
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
             <GradientText>Restorocket Indonesia</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
@@ -121,7 +127,9 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Front End Engineer @&nbsp;
+            Front End Engineer
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
             <GradientText>Nodeflux Indonesia</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
@@ -164,8 +172,10 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Front End Engineer @&nbsp;
-            <GradientText>Codigo Cyberlin Metadata Indonesia</GradientText>
+            Front End Engineer
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
+            <GradientText>Codigo Cyberlin Metadata</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
             January 2017 - November 2018
@@ -195,7 +205,9 @@ const Experienced = () => (
             </svg>
           </span>
           <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
-            Web Developer @&nbsp;
+            Web Developer
+          </h3>
+          <h3 className="mb-1 flex items-center text-lg font-semibold text-gray-900 dark:text-white">
             <GradientText>Daya Transformatika Indonesia</GradientText>
           </h3>
           <time className="mb-2 block text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
