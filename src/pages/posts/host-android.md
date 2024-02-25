@@ -9,4 +9,4 @@ imgAlt: 'Android'
 
 ## Presence App
 
-[Presence APP by Bagas Satria Nugroho](/public/app/app-release.apk "Presence APP by Bagas Satria Nugroho")
+[Presence APP by Bagas Satria Nugroho](/app/app-release.apk "Presence APP by Bagas Satria Nugroho")
