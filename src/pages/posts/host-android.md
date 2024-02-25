@@ -3,10 +3,10 @@ layout: '@/templates/BasePost.astro'
 title: Presence App
 description: Presence app hosted by bagas satria nugroho
 pubDate: 2023-12-25
-imgSrc: '/assets/images/android.png'
-imgAlt: 'Android'
+imgSrc: '/assets/images/presenceapp.png'
+imgAlt: 'Presence App'
 ---
 
 ## Presence App
 
-[Presence APP by Bagas Satria Nugroho](/app/app-release.apk "Presence APP by Bagas Satria Nugroho")
+[DOWNLOAD HERE PRESENCE APP](/app/app-release.apk "Presence APP by Bagas Satria Nugroho")
