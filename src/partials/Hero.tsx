@@ -29,7 +29,7 @@ const Hero = () => (
           me to excel in my role as a Frontend Engineer.
           <br />
           <a
-            href="http://tinyurl.com/43v997yt"
+            href="https://tinyurl.com/bdfmdmph"
             target="_blank"
             className="mt-2 inline-flex items-center rounded-lg border border-gray-200 bg-white px-4 py-2 text-sm font-bold text-gray-900 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:text-blue-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:bg-sky-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-700"
           >
